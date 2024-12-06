@@ -2,7 +2,7 @@
 
 O Capítulo 3 do livro "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow" aborda o tema de **Classificação**, uma das tarefas mais comuns do aprendizado supervisionado. O capítulo utiliza o conjunto de dados **MNIST**, composto por 70 mil imagens de dígitos escritos à mão. Este conjunto é frequentemente utilizado para o ensino de aprendizado de máquina e é considerado um "Hello World" da área. 
 
-**Tópicos abordados no Capítulo 3:**
+## **Tópicos abordados no Capítulo 3:**
 
 * **MNIST:** Introdução ao conjunto de dados MNIST e como baixá-lo utilizando o Scikit-Learn.
 * **Treinando um Classificador Binário:** Simplificando o problema de classificação para identificar apenas um dígito, o capítulo demonstra como treinar um classificador binário utilizando o **Gradiente Descendente Estocástico** (SGD).
@@ -19,7 +19,9 @@ O Capítulo 3 do livro "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn 
 * **Exemplo de Remoção de Ruído:** Um exemplo prático de como treinar um classificador para remover ruído de imagens.
 
 
-**Exercícios:** O capítulo inclui exercícios para consolidar os conceitos aprendidos, desafiando o leitor a:
+## **Exercícios:** 
+
+O capítulo inclui exercícios para consolidar os conceitos aprendidos, desafiando o leitor a:
 
 * Construir um classificador para o conjunto de dados MNIST com alta acurácia.
 * Experimentar diferentes hiperparâmetros e técnicas de pré-processamento de imagem para melhorar o desempenho do classificador.
