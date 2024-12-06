@@ -1,4 +1,4 @@
-# Classificação usando o banco de dados MNISt
+# Classificação usando o banco de dados MNIST
 
 O Capítulo 3 do livro "Mãos à Obra: Aprendizado de Máquina com Scikit-Learn & TensorFlow" aborda o tema de **Classificação**, uma das tarefas mais comuns do aprendizado supervisionado. O capítulo utiliza o conjunto de dados **MNIST**, composto por 70 mil imagens de dígitos escritos à mão. Este conjunto é frequentemente utilizado para o ensino de aprendizado de máquina e é considerado um "Hello World" da área. 
 
